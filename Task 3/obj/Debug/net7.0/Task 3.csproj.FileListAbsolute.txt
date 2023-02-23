@@ -1,0 +1,15 @@
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Task 3\bin\Debug\net7.0\Task 3.exe
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Task 3\bin\Debug\net7.0\Task 3.deps.json
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Task 3\bin\Debug\net7.0\Task 3.runtimeconfig.json
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Task 3\bin\Debug\net7.0\Task 3.dll
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Task 3\bin\Debug\net7.0\Task 3.pdb
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Task 3\obj\Debug\net7.0\Task 3.csproj.AssemblyReference.cache
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Task 3\obj\Debug\net7.0\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Task 3\obj\Debug\net7.0\Task 3.AssemblyInfoInputs.cache
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Task 3\obj\Debug\net7.0\Task 3.AssemblyInfo.cs
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Task 3\obj\Debug\net7.0\Task 3.csproj.CoreCompileInputs.cache
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Task 3\obj\Debug\net7.0\Task 3.dll
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Task 3\obj\Debug\net7.0\refint\Task 3.dll
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Task 3\obj\Debug\net7.0\Task 3.pdb
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Task 3\obj\Debug\net7.0\Task 3.genruntimeconfig.cache
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Task 3\obj\Debug\net7.0\ref\Task 3.dll

@@ -1,0 +1,15 @@
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Seminar 1(230223)\bin\Debug\net7.0\Seminar 1(230223).exe
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Seminar 1(230223)\bin\Debug\net7.0\Seminar 1(230223).deps.json
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Seminar 1(230223)\bin\Debug\net7.0\Seminar 1(230223).runtimeconfig.json
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Seminar 1(230223)\bin\Debug\net7.0\Seminar 1(230223).dll
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Seminar 1(230223)\bin\Debug\net7.0\Seminar 1(230223).pdb
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Seminar 1(230223)\obj\Debug\net7.0\Seminar 1(230223).csproj.AssemblyReference.cache
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Seminar 1(230223)\obj\Debug\net7.0\Seminar 1(230223).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Seminar 1(230223)\obj\Debug\net7.0\Seminar 1(230223).AssemblyInfoInputs.cache
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Seminar 1(230223)\obj\Debug\net7.0\Seminar 1(230223).AssemblyInfo.cs
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Seminar 1(230223)\obj\Debug\net7.0\Seminar 1(230223).csproj.CoreCompileInputs.cache
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Seminar 1(230223)\obj\Debug\net7.0\Seminar 1(230223).dll
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Seminar 1(230223)\obj\Debug\net7.0\refint\Seminar 1(230223).dll
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Seminar 1(230223)\obj\Debug\net7.0\Seminar 1(230223).pdb
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Seminar 1(230223)\obj\Debug\net7.0\Seminar 1(230223).genruntimeconfig.cache
+C:\Users\Григорий\Desktop\учеба\Seminar 1 C# 23.02.2023\Seminar 1(230223)\obj\Debug\net7.0\ref\Seminar 1(230223).dll
